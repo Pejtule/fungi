@@ -1,4 +1,0 @@
-- pnpm create vite
-- přidat vlastní tooling (ESLint, Prettier, TS strict mode)
-- react router 7 (pnpm add react-router-dom)
-- react query
