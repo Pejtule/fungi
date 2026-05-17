@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+@import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+@custom-variant short (&:where(.short, .short *));
+@custom-variant normal (&:where(.normal, .normal *));
+@custom-variant tall (&:where(.tall, .tall *));
+
+@theme {
+  --font-quicksand: 'Quicksand', sans-serif;
+  --font-poppins: 'Poppins', sans-serif;
+
+  --breakpoint-xs: 30rem;  /* 480px */
+  --breakpoint-sm: 40rem;  /* 640px */
+  --breakpoint-md: 48rem;  /* 768px */
+  --breakpoint-lg: 64rem;  /* 1024px */
+  --breakpoint-xl: 80rem;  /* 1280px */
+
+  --container-xs: 30rem;
+  --container-sm: 40rem;
+  --container-md: 48rem;
+  --container-lg: 64rem;
+  --container-xl: 80rem;
+
+  --color-bg: #fafafa;
+
+}
+
+html[data-theme="dark"] {
+  --color-bg: #18181b;
+  --color-text: #f4f4f5;
+}
+
+html[data-theme="light"] {
+  --color-bg: #fafafa;
+  --color-text: #18181b;
+}
+
+:root {
+  --vh: 1dvh;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+}

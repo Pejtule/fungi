@@ -1,0 +1,32 @@
+{
+  "private": true,
+  "packageManager": "pnpm@10.33.0",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "dev": "pnpm exec run-p dev:server dev:client",
+    "dev:server": "pnpm -C server dev",
+    "dev:client": "pnpm -C client dev",
+    "build": "pnpm exec run-s build:server build:client",
+    "build:server": "pnpm -C server build",
+    "build:client": "pnpm -C client build",
+    "typecheck": "pnpm exec run-s typecheck:server typecheck:client",
+    "typecheck:server": "pnpm -C server typecheck",
+    "typecheck:client": "pnpm -C client typecheck",
+    "lint": "pnpm exec run-s lint:server lint:client",
+    "lint:server": "pnpm -C server lint",
+    "lint:client": "pnpm -C client lint",
+    "test": "pnpm exec run-s test:server test:client",
+    "test:server": "pnpm -C server test",
+    "test:client": "pnpm -C client test",
+    "clean": "rimraf node_modules client/node_modules server/node_modules **/dist"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^4.1.5",
+    "@vitest/ui": "^4.1.5",
+    "vitest": "^4.1.5",
+    "npm-run-all2": "^8.0.4"
+  }
+}

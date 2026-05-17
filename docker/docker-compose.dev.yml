@@ -1,0 +1,61 @@
+services:
+  server:
+    image: node:20
+    working_dir: /app
+    ports:
+      - '${PORT}:${PORT}'
+    volumes:
+      - ./server:/app
+    env_file:
+      - .env
+    environment:
+      NODE_ENV: ${NODE_ENV}
+      PORT: ${PORT}
+      LOG_LEVEL: ${LOG_LEVEL}
+      API_URL: ${API_URL}
+      MONGO_URI: ${MONGO_URI}
+      S3_ENDPOINT: ${S3_ENDPOINT}
+      S3_KEY: ${MINIO_ROOT_USER}
+      S3_SECRET: ${MINIO_ROOT_PASSWORD}
+      S3_BUCKET: ${S3_BUCKET}
+    depends_on:
+      - mongo
+      - minio
+    command: sh -c "npm install && npm run dev"
+    restart: unless-stopped
+    healthcheck:
+      test: ['CMD', 'wget', '-qO-', 'http://localhost:${PORT}/health']
+      interval: 10s
+      timeout: 3s
+      retries: 3
+
+  mongo:
+    image: mongo:6
+    ports:
+      - '27017:27017'
+    restart: unless-stopped
+    volumes:
+      - mongo_data:/data/db
+
+  minio:
+    image: minio/minio
+    command: server /data --console-address ":9001"
+    env_file:
+      - .env
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD}
+    ports:
+      - '9000:9000'
+      - '9001:9001'
+    restart: unless-stopped
+    volumes:
+      - minio_data:/data
+
+volumes:
+  mongo_data:
+  minio_data:
+
+networks:
+  default:
+    name: devnet

@@ -1,0 +1,448 @@
+{
+  "data": [
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Agaricales", "cs": "pečárkotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Amanitaceae", "cs": "muchomůrkovité" },
+        { "parentId": "", "rank": "genus", "latin": "Amanita", "cs": "muchomůrka" },
+        { "parentId": "", "rank": "species", "latin": "Amanita muscaria", "cs": "muchomůrka červená" }
+      ],
+      "galleryIds": ["019cfcd8-31d9-7692-9582-a084a57e3ea3", "019cfcd9-2a1d-710e-af6f-cb300ec70636"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Agaricales", "cs": "pečárkotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Amanitaceae", "cs": "muchomůrkovité" },
+        { "parentId": "", "rank": "genus", "latin": "Amanita", "cs": "muchomůrka" },
+        { "parentId": "", "rank": "species", "latin": "Amanita pantherina", "cs": "muchomůrka tygrovaná" }
+      ],
+      "galleryIds": ["019cfcda-ded9-7005-bfdf-957420857416", "019cfcdb-fb09-76b4-8d02-d0e784064f57"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Agaricales", "cs": "pečárkotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Amanitaceae", "cs": "muchomůrkovité" },
+        { "parentId": "", "rank": "genus", "latin": "Amanita", "cs": "muchomůrka" },
+        { "parentId": "", "rank": "species", "latin": "Amanita rubescens", "cs": "muchomůrka růžovka" }
+      ],
+      "galleryIds": ["019cfcdd-fe55-77ff-98e1-8aa11f77b2ea", "019cfcde-cc7c-7148-a920-49301c8e811b", "019cfcdf-e4cd-7510-a6f7-c865bca0468a"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Boletales", "cs": "hřibotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Boletaceae", "cs": "hřibovité" },
+        { "parentId": "", "rank": "genus", "latin": "Aureoboletus", "cs": "hřib" },
+        { "parentId": "", "rank": "species", "latin": "Aureoboletus gentilis", "cs": "hřib pružný" }
+      ],
+      "galleryIds": ["019cfce5-6798-7751-925e-8b55565f84df"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Auriculariales", "cs": "boltcovitkotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Auriculariaceae", "cs": "boltcovitkovité" },
+        { "parentId": "", "rank": "genus", "latin": "Auricularia", "cs": "boltcovitka" },
+        { "parentId": "", "rank": "species", "latin": "Auricularia auricula-judae", "cs": "boltcovitka ucho Jidášovo" }
+      ],
+      "galleryIds": ["019cfce7-51b9-7457-80e5-731e687bf41d"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Boletales", "cs": "hřibotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Boletaceae", "cs": "hřibovité" },
+        { "parentId": "", "rank": "genus", "latin": "Boletus", "cs": "hřib" },
+        { "parentId": "", "rank": "species", "latin": "Boletus edulis", "cs": "hřib smrkový" }
+      ],
+      "galleryIds": ["019cfce9-3050-72af-8d24-d2d81bb8b873", "019cfcea-1c7d-71a6-9acc-4df09e9baf97", "019cfceb-46eb-754c-b3df-e56b8164b0e0", "019cfcec-78d4-7252-85fc-6d72ef6aaa25"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Boletales", "cs": "hřibotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Boletaceae", "cs": "hřibovité" },
+        { "parentId": "", "rank": "genus", "latin": "Boletus", "cs": "hřib" },
+        { "parentId": "", "rank": "species", "latin": "Boletus reticulatus", "cs": "hřib dubový" }
+      ],
+      "galleryIds": ["019cfcee-9a2a-719c-8c89-51987307bf6d", "019cfcef-7468-7338-9a07-362c85dc732b", "019cfcf0-ee02-738b-8d28-4908abd2d578"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Boletales", "cs": "hřibotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Boletaceae", "cs": "hřibovité" },
+        { "parentId": "", "rank": "genus", "latin": "Butyriboletus", "cs": "hřib" },
+        { "parentId": "", "rank": "species", "latin": "Butyriboletus appendiculatus", "cs": "hřib přívěskatý" }
+      ],
+      "galleryIds": ["019cfd0a-b6e2-734f-b5ad-e94e0f4bd203", "019cfd0b-8e50-769b-8f31-8f21b9a6241d"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Cantharellales", "cs": "liškotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Cantharellaceae", "cs": "liškovité" },
+        { "parentId": "", "rank": "genus", "latin": "Cantharellus", "cs": "liška" },
+        { "parentId": "", "rank": "species", "latin": "Cantharellus cibarius", "cs": "liška obecná" }
+      ],
+      "galleryIds": ["019cfd3c-21df-721e-a590-52249f24675b", "019cfd3c-d28a-707f-ab5d-e58472ba05e0"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Cantharellales", "cs": "liškotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Cantharellaceae", "cs": "liškovité" },
+        { "parentId": "", "rank": "genus", "latin": "Craterellus", "cs": "stroček" },
+        { "parentId": "", "rank": "species", "latin": "Craterellus tubaeformis", "cs": "liška nálevkovitá" }
+      ],
+      "galleryIds": ["019cfd3e-576c-730a-a1af-815112100cb3", "019cfd3f-aeeb-75cd-b785-dc81c089b77f"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Ascomycota", "cs": "vřeckovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Pezizomycetes", "cs": "terčoplodé" },
+        { "parentId": "", "rank": "order", "latin": "Pezizales", "cs": "kustřebkotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Discinaceae", "cs": "desticovité" },
+        { "parentId": "", "rank": "genus", "latin": "Discina", "cs": "destice" },
+        { "parentId": "", "rank": "species", "latin": "Discina ancilis", "cs": "destice chřapáčová" }
+      ],
+      "galleryIds": ["019cfd41-5e3e-709b-b168-71917e56b593"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Agaricales", "cs": "pečárkotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Physalacriaceae", "cs": "" },
+        { "parentId": "", "rank": "genus", "latin": "Flammulina", "cs": "penízovka" },
+        { "parentId": "", "rank": "species", "latin": "Flammulina velutipes", "cs": "penízovka sametonohá" }
+      ],
+      "galleryIds": ["019cfd42-e577-7338-9859-d453d4c646ca", "019cfd43-bbed-77e7-a9fa-a0667aeeb778"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Agaricales", "cs": "pečárkotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Hygrophoraceae", "cs": "šťavnatkovité" },
+        { "parentId": "", "rank": "genus", "latin": "Hygrophorus", "cs": "šťavnatka" },
+        { "parentId": "", "rank": "species", "latin": "Hygrophorus hypothejus", "cs": "šťavnatka pomrazka" }
+      ],
+      "galleryIds": ["019cfd46-2661-743e-8826-d774f9047d9c"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Boletales", "cs": "hřibotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Boletaceae", "cs": "hřibovité" },
+        { "parentId": "", "rank": "genus", "latin": "Imleria", "cs": "hřib" },
+        { "parentId": "", "rank": "species", "latin": "Imleria badia", "cs": "hřib hnědý" }
+      ],
+      "galleryIds": ["019cfd47-be18-7680-89ca-7068eea51eb8", "019cfd48-5bbb-775f-bf26-b439af3685a3", "019cfd49-81ba-746f-ba73-2c7e578e180d"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Russulales", "cs": "holubinkotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Russulaceae", "cs": "holubinkovité" },
+        { "parentId": "", "rank": "genus", "latin": "Lactarius", "cs": "ryzec" },
+        { "parentId": "", "rank": "species", "latin": "Lactarius deliciosus", "cs": "ryzec pravý" }
+      ],
+      "galleryIds": ["019cfd4b-3acc-728b-bed2-1523d2e9ac6f"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Russulales", "cs": "holubinkotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Russulaceae", "cs": "holubinkovité" },
+        { "parentId": "", "rank": "genus", "latin": "Lactarius", "cs": "ryzec" },
+        { "parentId": "", "rank": "species", "latin": "Lactarius deterrimus", "cs": "ryzec smrkový" }
+      ],
+      "galleryIds": ["019cfd4c-d826-7298-a567-ec43078dd9ca", "019cfd4e-0af4-74ed-8707-97c393c5e83a"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Russulales", "cs": "holubinkotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Russulaceae", "cs": "holubinkovité" },
+        { "parentId": "", "rank": "genus", "latin": "Lactarius", "cs": "ryzec" },
+        { "parentId": "", "rank": "species", "latin": "Lactarius volemus", "cs": "ryzec syrovinka" }
+      ],
+      "galleryIds": ["019cfd4f-8a7e-70d8-a4cf-32bf3a7695e8", "019cfd51-09a6-71d1-bb55-078e307926fe"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Polyporales", "cs": "chorošotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Fomitopsidaceae", "cs": "troudnatcovité" },
+        { "parentId": "", "rank": "genus", "latin": "Laetiporus", "cs": "sírovec" },
+        { "parentId": "", "rank": "species", "latin": "Laetiporus sulphureus", "cs": "sírovec žlutooranžový" }
+      ],
+      "galleryIds": ["019cfd52-df95-749f-82bd-c10488f39b6b", "019cfd54-1c7a-701b-a73c-a9823f6f1175"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Boletales", "cs": "hřibotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Boletaceae", "cs": "hřibovité" },
+        { "parentId": "", "rank": "genus", "latin": "Leccinum", "cs": "kozák" },
+        { "parentId": "", "rank": "species", "latin": "Leccinum aurantiacum", "cs": "křemenáč krvavý" }
+      ],
+      "galleryIds": ["019cfd55-ae42-74b8-9428-903c7d801288", "019cfd56-7529-70fa-a033-de8755098eab", "019cfd57-1926-75ba-b861-333d57c54a2b"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Boletales", "cs": "hřibotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Boletaceae", "cs": "hřibovité" },
+        { "parentId": "", "rank": "genus", "latin": "Leccinum", "cs": "kozák" },
+        { "parentId": "", "rank": "species", "latin": "Leccinum crocipodium", "cs": "kozák dubový" }
+      ],
+      "galleryIds": ["019cfd59-0eab-75cf-bb4c-100c95c9a2cd", "019cfd5d-6cc4-75c0-ae98-40aba58396b0", "019cfd5e-3e9d-7262-99d0-ff425734ef59", "019cfd5f-19fa-771e-85fb-720e9d92f9ec"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Boletales", "cs": "hřibotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Boletaceae", "cs": "hřibovité" },
+        { "parentId": "", "rank": "genus", "latin": "Leccinum", "cs": "kozák" },
+        { "parentId": "", "rank": "species", "latin": "Leccinum cyaneobasileucum ", "cs": "kozák šedohnědý" }
+      ],
+      "galleryIds": ["019cfd60-adf6-728f-9ae7-1fdaf724b619"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Boletales", "cs": "hřibotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Boletaceae", "cs": "hřibovité" },
+        { "parentId": "", "rank": "genus", "latin": "Leccinum", "cs": "kozák" },
+        { "parentId": "", "rank": "species", "latin": "Leccinum pseudoscabrum", "cs": "kozák habrový" }
+      ],
+      "galleryIds": ["019cfd69-7141-75ed-8895-749eb6afad07", "019cfd6a-3713-76ad-a15a-12ca6aae7d99", "019cfd6d-b0f8-7507-b897-54c351ae1b37"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Boletales", "cs": "hřibotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Boletaceae", "cs": "hřibovité" },
+        { "parentId": "", "rank": "genus", "latin": "Leccinum", "cs": "kozák" },
+        { "parentId": "", "rank": "species", "latin": "Leccinum rufum", "cs": "křemenáč osikový" }
+      ],
+      "galleryIds": ["019cfd6f-2183-70c8-8edc-4691757d3087", "019cfd70-0ad8-7310-9d8d-b8788617bf9b"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Boletales", "cs": "hřibotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Boletaceae", "cs": "hřibovité" },
+        { "parentId": "", "rank": "genus", "latin": "Leccinum", "cs": "kozák" },
+        { "parentId": "", "rank": "species", "latin": "Leccinum scabrum", "cs": "kozák březový" }
+      ],
+      "galleryIds": ["019cfd71-4d9e-7555-a926-546094765d56"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Ascomycota", "cs": "vřeckovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Pezizomycetes", "cs": "terčoplodé" },
+        { "parentId": "", "rank": "order", "latin": "Pezizales", "cs": "kustřebkotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Morchellaceae", "cs": "smržovité" },
+        { "parentId": "", "rank": "genus", "latin": "Morchella", "cs": "smrž" },
+        { "parentId": "", "rank": "species", "latin": "Morchella semilibera", "cs": "smrž polovolný" }
+      ],
+      "galleryIds": ["019cfd72-8565-726c-87c6-5ccea496ea07", "019cfd73-604a-73aa-a405-ffdcaf3d8c33"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Ascomycota", "cs": "vřeckovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Pezizomycetes", "cs": "terčoplodé" },
+        { "parentId": "", "rank": "order", "latin": "Pezizales", "cs": "kustřebkotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Morchellaceae", "cs": "smržovité" },
+        { "parentId": "", "rank": "genus", "latin": "Morchella", "cs": "smrž" },
+        { "parentId": "", "rank": "species", "latin": "Morchella vulgaris", "cs": "smrž šedočerný" }
+      ],
+      "galleryIds": ["019cfd75-54ce-748d-b2a8-651d8efe6c12"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Agaricales", "cs": "pečárkotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Tricholomataceae", "cs": "čirůvkovité" },
+        { "parentId": "", "rank": "genus", "latin": "Phyllotopsis", "cs": "hlíva" },
+        { "parentId": "", "rank": "species", "latin": "Phyllotopsis nidulans", "cs": "hlíva hnízdovitá" }
+      ],
+      "galleryIds": ["019cfd76-a866-702c-93ec-0e56c0ffe39c"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Agaricales", "cs": "pečárkotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Pleurotaceae", "cs": "hlívovité" },
+        { "parentId": "", "rank": "genus", "latin": "Pleurotus", "cs": "hlíva" },
+        { "parentId": "", "rank": "species", "latin": "Pleurotus ostreatus", "cs": "hlíva ústřičná" }
+      ],
+      "galleryIds": ["019cfd78-1695-70ac-bdd2-e8ab4124e859", "019cfd79-2c77-7388-b9d8-16d26972056e", "019cfd79-f16e-75a6-8422-3e8742134e62", "019cfd7a-a473-731e-bc72-afd8e1529fa0"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Ascomycota", "cs": "vřeckovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Pezizomycetes", "cs": "terčoplodé" },
+        { "parentId": "", "rank": "order", "latin": "Pezizales", "cs": "kustřebkotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Sarcoscyphaceae", "cs": "ohnivcovité" },
+        { "parentId": "", "rank": "genus", "latin": "Sarcoscypha", "cs": "ohnivec" },
+        { "parentId": "", "rank": "species", "latin": "Sarcoscypha austriaca", "cs": "ohnivec rakouský" }
+      ],
+      "galleryIds": ["019cfd7c-2a76-778e-b58e-457263abbe4a"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Polyporales", "cs": "chorošotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Sparassidaceae", "cs": "kotrčovité" },
+        { "parentId": "", "rank": "genus", "latin": "Sparassis", "cs": "kotrč" },
+        { "parentId": "", "rank": "species", "latin": "Sparassis crispa", "cs": "kotrč kadeřavý" }
+      ],
+      "galleryIds": ["019cfd7d-91a1-7097-b098-7be76793cb95", "019cfd7e-c1e2-7759-b306-c8c584d74800"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Boletales", "cs": "hřibotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Suillaceae", "cs": "klouzkovité" },
+        { "parentId": "", "rank": "genus", "latin": "Suillus", "cs": "klouzek" },
+        { "parentId": "", "rank": "species", "latin": "Suillus grevillei", "cs": "klouzek sličný" }
+      ],
+      "galleryIds": ["019cfd7f-eefd-763f-b2a2-7f699e823030"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Boletales", "cs": "hřibotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Suillaceae", "cs": "klouzkovité" },
+        { "parentId": "", "rank": "genus", "latin": "Suillus", "cs": "klouzek" },
+        { "parentId": "", "rank": "species", "latin": "Suillus luteus", "cs": "klouzek obecný" }
+      ],
+      "galleryIds": ["019cfd81-41cb-73f8-aa6a-36870b60b293"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Boletales", "cs": "hřibotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Suillaceae", "cs": "klouzkovité" },
+        { "parentId": "", "rank": "genus", "latin": "Suillus", "cs": "klouzek" },
+        { "parentId": "", "rank": "species", "latin": "Suillus variegatus", "cs": "klouzek strakoš" }
+      ],
+      "galleryIds": ["019cfd82-7b0b-7788-9b38-91fcb5885f4a"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Boletales", "cs": "hřibotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Boletaceae", "cs": "hřibovité" },
+        { "parentId": "", "rank": "genus", "latin": "Sutorius", "cs": "" },
+        { "parentId": "", "rank": "species", "latin": "Sutorius luridiformis", "cs": "hřib kovář" }
+      ],
+      "galleryIds": ["019cfd84-1c2d-729f-a538-5cb611658a38"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Ascomycota", "cs": "vřeckovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Pezizomycetes", "cs": "terčoplodé" },
+        { "parentId": "", "rank": "order", "latin": "Pezizales", "cs": "kustřebkotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Morchellaceae", "cs": "smržovité" },
+        { "parentId": "", "rank": "genus", "latin": "Verpa", "cs": "kačenka" },
+        { "parentId": "", "rank": "species", "latin": "Verpa bohemica", "cs": "kačenka česká" }
+      ],
+      "galleryIds": ["019cfd85-500e-74f8-a61a-80c971a4bdbf", "019cfd86-2839-739f-b025-a7ac808d3bf0"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Ascomycota", "cs": "vřeckovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Pezizomycetes", "cs": "terčoplodé" },
+        { "parentId": "", "rank": "order", "latin": "Pezizales", "cs": "kustřebkotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Morchellaceae", "cs": "smržovité" },
+        { "parentId": "", "rank": "genus", "latin": "Verpa", "cs": "kačenka" },
+        { "parentId": "", "rank": "species", "latin": "Verpa conica", "cs": "kačenka náprstkovitá" }
+      ],
+      "galleryIds": ["019cfd87-c012-77ae-a63c-87cb0ae94e44"]
+    },
+    {
+      "lineage": [
+        { "parentId": "", "rank": "kingdom", "latin": "Fungi", "cs": "houby" },
+        { "parentId": "", "rank": "phylum", "latin": "Basidiomycota", "cs": "stopkovýtrusné" },
+        { "parentId": "", "rank": "class", "latin": "Agaricomycetes", "cs": "rouškaté" },
+        { "parentId": "", "rank": "order", "latin": "Boletales", "cs": "hřibotvaré" },
+        { "parentId": "", "rank": "family", "latin": "Boletaceae", "cs": "hřibovité" },
+        { "parentId": "", "rank": "genus", "latin": "Xerocomus", "cs": "hřib" },
+        { "parentId": "", "rank": "species", "latin": "Xerocomus subtomentosus", "cs": "hřib plstnatý" }
+      ],
+      "galleryIds": ["019cfd88-f683-752c-9acc-537c5510d95d", "019cfd89-eaf4-72f3-81bd-885de90b8dc9", "019cfd8a-cda4-77e9-9dc0-f55c9c5bfeb2"]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+services:
+  server:
+    build:
+      context: ./server
+      dockerfile: Dockerfile.prod
+    ports:
+      - "${PORT}:${PORT}"
+    env_file:
+      - .env.prod
+    environment:
+      NODE_ENV: production
+      PORT: ${PORT}
+      LOG_LEVEL: ${LOG_LEVEL}
+      API_URL: ${API_URL}
+      MONGO_URI: ${MONGO_URI}
+      S3_ENDPOINT: ${S3_ENDPOINT}
+      S3_KEY: ${MINIO_ROOT_USER}
+      S3_SECRET: ${MINIO_ROOT_PASSWORD}
+      S3_BUCKET: ${S3_BUCKET}
+    depends_on:
+      - mongo
+      - minio
+    restart: unless-stopped
+
+  client:
+    build:
+      context: ./client
+      dockerfile: Dockerfile.prod
+    depends_on:
+      - server
+    ports:
+      - "80:80"
+    restart: unless-stopped
+
+  mongo:
+    image: mongo:6
+    env_file:
+      - .env.prod
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_INITDB_ROOT_USERNAME}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_INITDB_ROOT_PASSWORD}
+    volumes:
+      - mongo_data:/data/db
+    restart: unless-stopped
+
+  minio:
+    image: minio/minio
+    command: server /data --console-address ":9001"
+    env_file:
+      - .env.prod
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD}
+    volumes:
+      - minio_data:/data
+    restart: unless-stopped
+
+volumes:
+  mongo_data:
+  minio_data:
+
+networks:
+  default:
+    name: prodnet
